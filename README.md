@@ -2,6 +2,8 @@
 
 This repository is source code for the manuscript entitled "Predictive Analysis of Multiple Future Scientific Impacts by Embedding Heterogeneous A Network."
 
+[![DOI](https://zenodo.org/badge/499846058.svg)](https://zenodo.org/badge/latestdoi/499846058)
+
 ## Materials
 ### src
 #### This is source codes for predicting future scientific impacts. If you want to acquire vector embeddings from Scopus dataset. Please refer to the [HERE](https://bitbucket.org/m-ochi/ptemanylayers/src/master/).
