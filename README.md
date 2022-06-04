@@ -30,6 +30,6 @@ This repository is source code for the manuscript entitled "Predictive Analysis 
   - top0.200000ornot_natureindex_acfc2013.csv
   - top0.200000ornot_natureindex_acfc2016.csv
 ##### Paper Citation Count
-top0.200000ornot_published2009_after3.csv
-top0.200000ornot_published2013_after3.csv
+  - top0.200000ornot_published2009_after3.csv
+  - top0.200000ornot_published2013_after3.csv
 
