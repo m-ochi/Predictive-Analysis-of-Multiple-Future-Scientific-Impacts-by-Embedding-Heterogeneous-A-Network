@@ -19,10 +19,17 @@ This repository is source code for the manuscript entitled "Predictive Analysis 
     - for visualization about two dimension embedding result.
     
 ### data
-#### This is a top scitation impact data at 2009 and 2013.
-top0.001000ornot_hindex2013.csv
-top0.001000ornot_hindex2016.csv
-top0.001000ornot_impactfactor2009.csv
-top0.001000ornot_impactfactor2013.csv
-top0.001000ornot_published2009_after3.csv
-top0.001000ornot_published2013_after3.csv
+#### This is a top impact data for each research object at 2009 and 2013.
+##### h-index
+  - top0.001000ornot_hindex2009.csv
+  - top0.001000ornot_hindex2013.csv
+##### journal impact factor
+  - top0.200000ornot_impactfactor2013.csv
+  - top0.200000ornot_impactfactor2016.csv
+##### Nature Index
+  - top0.200000ornot_natureindex_acfc2013.csv
+  - top0.200000ornot_natureindex_acfc2016.csv
+##### Paper Citation Count
+top0.200000ornot_published2009_after3.csv
+top0.200000ornot_published2013_after3.csv
+
